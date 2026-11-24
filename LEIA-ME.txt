@@ -1,0 +1,25 @@
+BOOK OF REVELATION — SITE INICIAL
+
+Como abrir:
+1. Extraia o arquivo ZIP para uma pasta.
+2. Abra o arquivo index.html em um navegador.
+3. Para publicar, envie todos os arquivos e a pasta assets para sua hospedagem.
+
+Produtos cadastrados:
+- Pulseira Macramê com Pedras — R$ 50,00
+- Pulseira Macramê Clássica — R$ 50,00
+- Gargantilha em Macramê — R$ 150,00
+
+Pagamento:
+Chave PIX (telefone): 13 97826-7986
+Os botões de compra abrem uma conversa no WhatsApp com os dados do pedido. O formulário recolhe o nome e o e-mail do comprador para que a loja possa confirmar o pedido após conferir o comprovante.
+
+IMPORTANTE SOBRE E-MAIL:
+Esta é uma loja estática, sem servidor. Para enviar confirmação automática por e-mail, é necessário configurar um endereço de e-mail da loja e um serviço de envio/backend. O site não inventa nem simula esse envio; no momento, o e-mail do cliente segue no pedido enviado pelo WhatsApp para confirmação manual.
+
+As categorias de sobrevivência, cantis e perfumes estão apresentadas como áreas da loja para expansão. Os produtos e preços dessas categorias poderão ser adicionados quando você definir o catálogo.
+
+Contato de vendas:
+- E-mail: atendimentoti2026@gmail.com
+- WhatsApp: (13) 97826-7986
+Os pedidos pelo formulário abrem uma conversa no WhatsApp e uma mensagem de e-mail pré-preenchida para a loja. O envio depende da confirmação do comprador no aplicativo de e-mail.

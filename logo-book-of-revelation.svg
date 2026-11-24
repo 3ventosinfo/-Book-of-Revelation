@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Book of Revelation</title><desc id="desc">Logotipo dourado com livro aberto e bússola.</desc>
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b3"/><stop offset=".45" stop-color="#d9a63d"/><stop offset="1" stop-color="#9b641e"/></linearGradient></defs>
+<g fill="none" stroke="url(#gold)" stroke-width="9" stroke-linejoin="round" stroke-linecap="round">
+<path d="M70 150 Q190 85 300 155 Q410 85 530 150 L530 285 Q410 225 300 295 Q190 225 70 285Z"/><path d="M300 155V295M95 180Q200 135 270 185M330 185Q405 135 505 180" stroke-width="6"/>
+<circle cx="300" cy="73" r="35" stroke-width="7"/><path d="M300 15V38M300 108V132M242 73H265M335 73H358" stroke-width="8"/>
+<circle cx="505" cy="230" r="44" stroke-width="5"/><path d="M505 170L520 216L565 230L520 244L505 290L490 244L445 230L490 216Z" fill="url(#gold)" stroke-width="3"/>
+</g>
+<text x="590" y="165" fill="url(#gold)" font-family="Georgia,serif" font-size="100" font-weight="bold" letter-spacing="3">BOOK OF</text>
+<text x="590" y="270" fill="url(#gold)" font-family="Georgia,serif" font-size="100" font-weight="bold" letter-spacing="1">REVELATION</text>
+<path d="M590 300H1110" stroke="url(#gold)" stroke-width="4"/>
+<text x="595" y="350" fill="#e9d7ad" font-family="Arial,sans-serif" font-size="26" letter-spacing="8">VARIEDADES • SOBREVIVÊNCIA • FÉ</text>
+</svg>
